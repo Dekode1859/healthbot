@@ -52,4 +52,4 @@ To run the app there are two ways:
      docker run -p 8501:8501 streamlitapp
      ```
 
-## Additional Info on CI/CD deployment using Docker and Github Actions Flow[Link](https://johnardavies.github.io/technical/front_end/)
+## [Additional Info on CI/CD deployment using Docker and Github Actions Flow](https://johnardavies.github.io/technical/front_end/)
